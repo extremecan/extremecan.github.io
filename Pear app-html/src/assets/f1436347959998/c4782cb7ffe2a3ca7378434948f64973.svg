@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Pear</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Kitchen" sketch:type="MSLayerGroup" transform="translate(-247.000000, -598.000000)" stroke="#535353" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Pear" transform="translate(258.000000, 598.000000)" sketch:type="MSShapeGroup">
+                <path d="M20.5,57.9403182 C30.25,60.2344358 40,51.5039884 40,40.7344358 C40,35.4671408 33.8463546,29.3080492 30.4523862,23.3929817 C26.9070203,17.214056 26.0022576,11.3903576 20.5,11.3903576 C14.3010918,11.3903576 13.4760815,16.1157071 9.90437153,23.3929817 C7.2708406,28.7587387 1,36.1637914 1,40.7344358 C1,51.5039884 10.7505646,60.2344358 20.5,57.9403182 Z" id="Oval-669"></path>
+                <path d="M20.876462,10.7513376 C20.876462,10.7513376 19.2241275,6.59152559 22.9479605,2.37466482" id="Path-1525"></path>
+                <path d="M22.8563101,37.4161078 C22.8563101,37.4161078 23.463229,34.6343212 25.8572178,33.7371029" id="Path-1526"></path>
+                <path d="M17.8572178,37.4161078 C17.8572178,37.4161078 17.2502988,34.6343212 14.8563101,33.7371029" id="Path-1526"></path>
+                <path d="M1.20195223,6.12948998 C1.20195223,6.12948998 15.8972579,-4.2269553 14.8730921,7.73368828 C14.1516333,16.1591911 1.20195223,6.12948998 1.20195223,6.12948998 Z" id="Path-1400" transform="translate(8.063097, 6.535435) rotate(11.000000) translate(-8.063097, -6.535435) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
